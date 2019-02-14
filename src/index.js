@@ -37,14 +37,14 @@ function App() {
 
 	return (
 		<>
-			<AppBar position="center" color="primary">
+			<AppBar position="fixed" color="primary">
 				<Toolbar>
 					<Typography variant="h6" color="inherit">
 						React Hooks - useState & useEffect
 					</Typography>
 				</Toolbar>
 			</AppBar>
-			<Grid container>
+			<Grid container style={{ marginTop: "56px" }}>
 				<Grid item md={4} />
 
 				<Grid item md={4}>
