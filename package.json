@@ -1,7 +1,7 @@
 {
-	"name": "reacthooks-state-effect",
+	"name": "reacthooks-usestate-useeffect",
 	"version": "1.0.0",
-	"description": "reacthooks_state_effect",
+	"description": "ReactHooks-useState-useEffect",
 	"keywords": [],
 	"main": "src/index.js",
 	"dependencies": {
